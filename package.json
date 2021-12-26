@@ -4,9 +4,6 @@
     "description": "Lambda Layer for HTTP-based Response Code(s)",
     "main": "src/index.js",
     "scripts": {},
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/cloud-hybrid/http-responses-lambda-layer.git"
-    },
+    "repository": "git+https://github.com/cloud-hybrid/http-responses-lambda-layer.git",
     "author": "Jacob B. Sanders"
 }

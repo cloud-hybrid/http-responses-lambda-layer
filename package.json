@@ -5,5 +5,8 @@
     "main": "src/index.js",
     "scripts": {},
     "repository": "git+https://github.com/cloud-hybrid/http-responses-lambda-layer.git",
-    "author": "Jacob B. Sanders"
+    "author": "Jacob B. Sanders",
+    "dependencies": {
+        "@cloud-vault/http-responses-lambda-layer": "."
+    }
 }
